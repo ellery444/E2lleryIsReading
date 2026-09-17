@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Ellery Read Status",
+  "version": "0.1.3",
+  "description": "A tiny Zotero 10 reading-status column: unread, reading, read.",
+  "author": "E2ery and Jacky",
+  "homepage_url": "https://ellery444.github.io/E2eryPublic/",
+  "applications": {
+    "zotero": {
+      "id": "e2ery-read-status@ellery444.github.io",
+      "update_url": "https://ellery444.github.io/E2eryPublic/updates.json",
+      "strict_min_version": "10.0",
+      "strict_max_version": "10.0.*"
+    }
+  }
+}
