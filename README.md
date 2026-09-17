@@ -1,14 +1,27 @@
 u can use this :
+
 L：
+
 change your papers' status
+
 ☐ unresolved 
+
 ◧ reading 
+
 ■ finished
+
 add a custom reading-status column to Zotero
+
 click the status icon to cycle through reading states
+
 store reading status directly in Zotero item tags
 
 R:
+
 highlight:
+
 click the imp paper, so you can highlight it
+
 have a good time with your thesis:)
+
+<img width="1368" height="194" alt="image" src="https://github.com/user-attachments/assets/1788b30a-a226-4a7d-9fc9-7265b1e25a80" />
