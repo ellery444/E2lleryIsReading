@@ -29,3 +29,5 @@ have a good time with your thesis:)
 update：
 
 u can use an api to get your papers' summary,and displayed when the mouse hovers over the upper title.
+
+<img width="792" height="295" alt="image" src="https://github.com/user-attachments/assets/2248aab5-3ea6-4322-bb1d-2d2cfa9a0a2b" />
